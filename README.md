@@ -10,7 +10,7 @@ Develop a PHP Calendar App that allows you to manage your schedule. It uses Goog
 * Implemented the Admin functionality to support multiple user at once.
 
 
-### Images
+### screenshots
 Login Page            |  My Calendar Page
 :-------------------------:|:-------------------------:
 ![](screenshots/login.png)  |  ![](screenshots/Calendar-page.png)
